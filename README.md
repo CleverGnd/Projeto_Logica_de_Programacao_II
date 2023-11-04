@@ -48,5 +48,6 @@ Expressamos nossa gratidão à ADA e ao iFood por proporcionarem esta formação
 [![Linkedin Badge](https://img.shields.io/badge/-CleversonGuandalin-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleversonguandalin/)](https://www.linkedin.com/in/cleversonguandalin/)
 [![Linkedin Badge](https://img.shields.io/badge/-JoãoVarella-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-varella-0ba046284/)](https://www.linkedin.com/in/jo%C3%A3o-varella-0ba046284/)
 [![Linkedin Badge](https://img.shields.io/badge/-LucianaOtávioNunes-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luhonunes/)](https://www.linkedin.com/in/luhonunes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LuisGustavoAmaral-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisamaral2506/)](https://www.linkedin.com/in/luisamaral2506/)
 [![Linkedin Badge](https://img.shields.io/badge/-SávioMurillo-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savio-murillo-4b2386197/)](https://www.linkedin.com/in/savio-murillo-4b2386197/)
 
