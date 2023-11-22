@@ -35,6 +35,7 @@ Professor: [Alex Lima](https://www.linkedin.com/in/alexcavalera)
 Você pode acessar a versão mais recente do notebook diretamente no Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/CleverGnd/Projeto_Logica_de_Programacao_II/blob/main/clientes.ipynb)
+
 Ao clicar no botão acima, o notebook será aberto no Google Colab, onde você poderá executar o código.
 
 <h4>Localmente com Jupyter Notebook</h4>
