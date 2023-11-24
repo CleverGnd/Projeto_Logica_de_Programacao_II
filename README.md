@@ -54,21 +54,16 @@ Se você preferir executar o código localmente em seu computador usando o Jupyt
     source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
     ```
 
-3. **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Inicie o Jupyter Notebook:**
+3. **Inicie o Jupyter Notebook:**
     ```bash
     jupyter notebook
     ```
 
-5. **Abra o notebook:**
+4. **Abra o notebook:**
    - Navegue até o diretório do projeto no seu navegador.
    - Abra o arquivo `clientes.ipynb`.
 
-6. **Execute o código:**
+5. **Execute o código:**
    - Execute as células do notebook conforme necessário.
 
 Lembre-se de ajustar o nome do notebook (`clientes.ipynb`) conforme o nome real do seu arquivo de notebook.
